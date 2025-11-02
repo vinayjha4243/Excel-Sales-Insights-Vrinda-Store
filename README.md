@@ -103,4 +103,4 @@ Others – 4%
 . Enabled better decision-making through visual insights and comparative trends.
 
 🖼️ Dashboard Image of Sales-Insights-Vrinda-Store:-
-![]
+![Image alt](https://github.com/vinayjha4243/Excel-Sales-Insights-Vrinda-Store/blob/7e948ea7c56a21cb97ce689740b71c2666198e9b/Dashboard-report-image.png)
